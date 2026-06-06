@@ -1,6 +1,6 @@
 # 📡 SC-200 Study Plan — Microsoft Security Operations Analyst
 
-> **Author:** Tharaka D. | Security Engineer @ Subnet  
+> **Author:** Tharaka D. | Security Engineer 
 > **Exam Version:** April 16, 2026 objectives (latest)  
 > **Status:** 🟢 Active study reference  
 > **Prior Score:** SC-200 passed — 944/1000
