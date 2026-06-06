@@ -1,4 +1,4 @@
-# 📡 SC-200 Study Plan — Microsoft Security Operations Analyst
+# 📡 SC-200 & SC-300 Study Plan — Microsoft Security Operations Analyst
 
 > **Author:** Tharaka D. | Security Engineer 
 > **Exam Version:** April 16, 2026 objectives (latest)  
